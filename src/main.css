@@ -1,0 +1,46 @@
+* 
+{
+   padding : 0;
+   margin : 0;
+   font-family: Poppins;
+   
+}
+body
+{
+    background-color: pink; /* For browsers that do not support gradients */
+    background-image: linear-gradient(to right , green ,pink, blue);
+}
+a {
+    color : white;
+    text-decoration: none;
+}
+
+
+.formElement , button
+{
+    padding : 1%;
+    margin-top : 1vh;
+    margin-right : 0.5%
+}
+
+
+
+
+input[type="range"] {
+    accent-color: blue;
+    cursor: ew-resize;
+    height : 0.5vh;
+    
+
+    background-color: black;
+    
+  }
+
+ 
+
+#speed , #jump
+{
+    appearance: none;
+    border :1px solid grey
+
+}
