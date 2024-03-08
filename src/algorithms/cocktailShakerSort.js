@@ -5,7 +5,7 @@ import inputOn from "./inputOn";
 
 
 
-async function cocktailShakerSort(data, setData, speed , jump)
+async function cocktailShakerSort(data, setData, speed , jump )
 {
     let buffer = [...data]
     const n = data.length

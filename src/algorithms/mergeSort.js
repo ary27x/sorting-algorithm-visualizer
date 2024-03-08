@@ -37,8 +37,6 @@ for (i = 0 , j = 0 , k = left ; k <= right; k++)
     
     if (j < rightLength)
     {
-        
-
         y = document.getElementById(left + leftLength + j - 1)
         y.style.backgroundColor = "red"
     }
