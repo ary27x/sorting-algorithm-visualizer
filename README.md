@@ -1,5 +1,10 @@
 Link to the application : https://sorting-algorithm-visualizer-ary27x.netlify.app/
 
+<div align="center">
+ 
+![](https://github.com/ary27x/sorting-algorithm-visualizer/blob/main/sorting-gif.gif)
+
+</div>
 Supported algorithms : 
 
 <ol>
